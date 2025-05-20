@@ -4,7 +4,7 @@
     "gatewayUrl": "https://matrix.org",
     "applicationServerKey": "BC-gpSdVHEXhvHSHS0AzzWrQoukv2BE7KzpoPO_FfPacqOo3l1pdqz7rSgmB04pZCWaHPz7XRe6fjLaC-WPDopM"
   },
-  "defaultHomeServer": "matrix.org",
+  "defaultHomeServer": "https://matrix.mxchat.cz",
   "bugReportEndpointUrl": "https://element.io/bugreports/submit",
   "themeManifests": [
     "assets/theme-element.json"
@@ -14,3 +14,4 @@
     "dark": "element-dark"
   }
 }
+
