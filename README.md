@@ -1,6 +1,6 @@
 # 💬 chat_vhsky
 
-Embedovaný webový chat pro [VHSky.cz](https://vhsky.cz), postavený na [Hydrogenu](https://hydrogen.element.io/) a nasazený přes [Surfer](https://cloudron.io/store/org.surfer.cloudronapp.html) na [chat.vhsky](https://chat.vhsky.cz).
+Embedovaný webový chat pro [VHSky.cz](https://vhsky.cz), postavený na [Hydrogenu](https://hydrogen.element.io/) a nasazený přes [Surfer](https://docs.oscloud.cz/apps/surfer/) na [chat.vhsky](https://chat.vhsky.cz).
 
 ## ✨ Funkce
 
